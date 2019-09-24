@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+ <!-- ... -->
+  <PropertyGroup>
+    <OutputType>library</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>EssemtialCSharp8</RootNamespace>
+  </PropertyGroup>
+
+</Project>
